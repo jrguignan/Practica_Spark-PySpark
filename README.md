@@ -1,7 +1,7 @@
 En construccion 🚧 Practica_Spark-PySpark
 
 <p align="center">
-<img src="images/banner_spark_gif.gif"  height=350>
+<img src="images/banner_spark_gif.gif"  height=400>
 </p>
 
 # Índice
