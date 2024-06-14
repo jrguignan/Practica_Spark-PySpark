@@ -8,7 +8,13 @@ En construccion 🚧 Practica_Spark-PySpark
 
 * [Spark](#Spark)
   * [Instalación](#Instalación)
+* [Basico](#Basico)
+* [SQL Spark Dataframes](#Basico)
 * [ETL](#ETL)
+* [Streaming](#Streaming)
+* [MLib](#Mlib)
+* [Graphx](#Graphx)
+
 * [Autor](#Autor)
 
 # Spark
@@ -23,7 +29,7 @@ En construccion 🚧 Practica_Spark-PySpark
 
 ### Vale la pena usar Google Colab
 
-En mi caso particular funciona mejor en el colab
+En mi caso particular funciona mejor en el colab, tuve fallas con varios comandos.
 
 #Solo se debe instalar pyspark y tener en cuenta path de los archivos
 !pip install pyspark
