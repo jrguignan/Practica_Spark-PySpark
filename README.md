@@ -27,7 +27,7 @@ En construccion 🚧 Practica_Spark-PySpark
 
 [Video](https://www.youtube.com/watch?v=8i4bq-MfN-0&list=PLr6cKjxlq43XVn33_6JQdrpI2txw0SKq8): Donde se explica facilmente como instalar Spark.
 
-### Vale la pena usar Google Colab
+### Google Colab
 
 En mi caso particular funciona mejor en el colab, tuve fallas con varios comandos.
 
